@@ -1,2 +1,0 @@
-# Shekharkakade
-This is project 
